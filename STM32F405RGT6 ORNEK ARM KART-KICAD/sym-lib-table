@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "STM32_SAMPLE-rescue")(type "Legacy")(uri "${KIPRJMOD}/STM32_SAMPLE-rescue.lib")(options "")(descr ""))
+)
