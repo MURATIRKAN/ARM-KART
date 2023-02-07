@@ -1,0 +1,13 @@
+*** Error 18 "E:\PIC18 KART DIZAYN\def.h" Line 4(10,23): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\p18f44k22.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\p18f44k22.h"
+    Not in "E:\PIC18 KART DIZAYN\p18f44k22.h"
+    Not in project "E:\PIC18 KART DIZAYN\p18f44k22.h"
+*** Error 18 "E:\PIC18 KART DIZAYN\def.h" Line 5(10,20): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\delays.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\delays.h"
+    Not in "E:\PIC18 KART DIZAYN\delays.h"
+    Not in project "E:\PIC18 KART DIZAYN\delays.h"
+*** Error 128 "C:\Program Files (x86)\PICC\Drivers\string.h" Line 26(2,7): A #DEVICE required before this line
+      3 Errors,  0 Warnings.
+Build Failed.
