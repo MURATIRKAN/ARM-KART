@@ -15548,7 +15548,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="C30" library="rcl" deviceset="CPOL-EU" device="SMCA" value="10uF"/>
 <part name="VR1" library="v-reg" deviceset="LD117A?*" device="D2MTR"/>
 <part name="J1" library="SparkFun" deviceset="POWER_JACK" device="SMD"/>
-<part name="GUC" library="led" deviceset="LED" device="CHIPLED_0603"/>
+<part name="PWR" library="led" deviceset="LED" device="CHIPLED_0603"/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0603" value="1K1"/>
 <part name="V5" library="supply2" deviceset="GND" device=""/>
 <part name="JTAG" library="pinhead-2" deviceset="PINHD-1X6" device=""/>
@@ -15719,7 +15719,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <attribute name="VALUE" x="-30.48" y="119.38" size="1.778" layer="96"/>
 </instance>
 <instance part="J1" gate="G$1" x="-50.8" y="129.54" smashed="yes"/>
-<instance part="GUC" gate="G$1" x="-27.94" y="109.22" smashed="yes" rot="R90">
+<instance part="PWR" gate="G$1" x="-27.94" y="109.22" smashed="yes" rot="R90">
 <attribute name="NAME" x="-23.368" y="112.776" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="-23.368" y="114.935" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -16123,7 +16123,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 </segment>
 <segment>
 <pinref part="V5" gate="GND" pin="GND"/>
-<pinref part="GUC" gate="G$1" pin="C"/>
+<pinref part="PWR" gate="G$1" pin="C"/>
 </segment>
 <segment>
 <wire x1="-5.08" y1="12.7" x2="2.54" y2="12.7" width="0.1524" layer="91"/>
@@ -16474,7 +16474,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 </net>
 <net name="N$29" class="0">
 <segment>
-<pinref part="GUC" gate="G$1" pin="A"/>
+<pinref part="PWR" gate="G$1" pin="A"/>
 <pinref part="R6" gate="G$1" pin="2"/>
 </segment>
 </net>
