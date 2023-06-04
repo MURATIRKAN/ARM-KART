@@ -1,0 +1,11 @@
+ST GELİŞTİRME KARTLARI
+****************************************************************
+BU ARM CORTEX M4 YÜKSEK PERFORMANS GELİŞTİRME KARTIDIR.ANA ARM İŞLEMÇİ 168mhz de çalışır.
+DEVRE DIPTRACE VEYA AUTODESK EAGLE KULLANILARAK TASARLANMIŞTIR.
+***************************************************************
+TEKNİK destek mail: muratir1975@windowslive.com
+2022
+
+/////////////////////////////////////////////////////////////////////////////////////////
+NOT:MICRO-SD KART VE FLASH HAFIZA KARTI İSTEĞE BAGLI OLARAK DEĞİŞEBİLİR.
+/////////////////////////////////////////////////////////////////////////////////////////
