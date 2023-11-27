@@ -2605,11 +2605,11 @@
     (uuid fe2078ec-789c-4c72-81fd-e0b609647d58)
   )
 
-  (image (at 25.4 44.45) (scale 0.339843)
+  (image (at 30.48 46.99) (scale 0.339843)
     (uuid ce73777e-575d-4e26-95f6-2ee234f7f452)
     (data
       iVBORw0KGgoAAAANSUhEUgAAAu4AAAPoCAIAAAAOUew0AAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
-      AAsSAAALEgHS3X78AAAgAElEQVR4nOzdebxcRZk38N9TVWfp7ntvkhsSAkmAQCCALJFFYIgiirjg
+      AArwAAAK8AFCrDSYAAAgAElEQVR4nOzdebxcRZk38N9TVWfp7ntvkhsSAkmAQCCALJFFYIgiirjg
       goAL6ijM6ODCII67Iu4KriPy6qgziuugLIMbOKKiIgJKlAlbgLCFhOy5uUt3n6WqnvePun1oboBx
       QcjJPN+Pn3jp2923u0/1Ob9T9VQdyrIMQgghhBD1pJ7oFyCEEEII8ZeTKCOEEEKIGpMoI4QQQoga
       kygjhBBCiBqTKCOEEEKIGpMoI4QQQogakygjhBBCiBqTKCOEEEKIGpMoI4QQQogakygjhBBCiBqT
@@ -6228,16 +6228,17 @@
     (effects (font (face "Arial Black") (size 1.9 1.9) (thickness 0.254) bold (color 255 58 85 1)) (justify left bottom))
     (uuid 754dbe36-b7a7-4e66-8ae3-8410f89901ba)
   )
-  (text "ANA REGULATÖR 1AMPER & 3.3v ÇIKIŞ VOLTAJ" (at 39.37 46.99 0)
-    (effects (font (size 2.54 2.54) (thickness 0.508) bold (color 255 46 55 1)) (justify left bottom))
+  (text "ANA REGULATÖR 1AMPER & 3.3v ÇIKIŞ; VOLTAJ GİRİŞ MAX:20v"
+    (at 39.37 46.99 0)
+    (effects (font (size 2.56 2.56) (thickness 0.508) bold (color 255 94 99 1)) (justify left bottom))
     (uuid 8f794e5e-ede8-4f42-a444-28d7bcc15546)
   )
   (text "KRİSTAL:12 MHz" (at 52.07 210.82 0)
-    (effects (font (face "Arial Black") (size 2.9 2.9) (color 255 111 41 1)) (justify left bottom))
+    (effects (font (face "Arial Nova Cond") (size 3.5 3.5) (color 255 84 107 1)) (justify left bottom))
     (uuid c0de103e-694b-4957-8445-f3f012cfbf74)
   )
-  (text "ÖRNEK TASARIM :MURAT IRKAN 2023/11" (at 45.72 38.1 0)
-    (effects (font (size 1.9 1.9) bold (color 97 94 255 1)) (justify left bottom))
+  (text "ÖRNEK TASARIM :MURAT IRKAN 2023/11" (at 39.37 40.64 0)
+    (effects (font (size 3 3) bold (color 255 76 55 1)) (justify left bottom))
     (uuid c4174f54-a307-4137-8279-cb519aa3de06)
   )
   (text "NOT:C8 KONDANSATÖR RP2040 YAKIN OLMALI.!" (at 115.57 82.55 0)
@@ -6245,351 +6246,351 @@
     (uuid daa1c201-1359-4b1f-bbcd-099b73ed95c4)
   )
 
-  (label "GPIO8" (at 339.09 144.78 180)
+  (label "GPIO8" (at 339.09 144.78 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 015e2ce9-def2-47cc-9411-1849ccf040c8)
   )
-  (label "QSPI_SCLK" (at 152.4 128.27 0)
+  (label "QSPI_SCLK" (at 152.4 128.27 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 03479297-47b5-4e09-962b-02f9888e2ae8)
   )
-  (label "QSPI_SS" (at 152.4 113.03 0)
+  (label "QSPI_SS" (at 152.4 113.03 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 038d83de-76ad-420c-adf4-b368f5e445a3)
   )
-  (label "GPIO25" (at 245.11 175.26 180)
+  (label "GPIO25" (at 245.11 175.26 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 03e73c0c-db98-4ab5-bd07-71334ed372b8)
   )
-  (label "GPIO20" (at 358.14 144.78 0)
+  (label "GPIO20" (at 358.14 144.78 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 07be893e-3162-449b-9ab8-144d5e5f864b)
   )
-  (label "XIN" (at 152.4 147.32 0)
+  (label "XIN" (at 152.4 147.32 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 08b4284a-5f1b-4799-a2f2-75cf281a7886)
   )
-  (label "GPIO5" (at 339.09 137.16 180)
+  (label "GPIO5" (at 339.09 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 0d2a46ab-b94a-4adc-a727-5ba365d64097)
   )
-  (label "XOUT" (at 97.79 228.6 180)
+  (label "XOUT" (at 97.79 228.6 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1401281c-4e0c-4909-942c-4f80fd87a209)
   )
-  (label "GPIO14" (at 339.09 160.02 180)
+  (label "GPIO14" (at 339.09 160.02 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 17957407-1cd4-4919-ba82-f851c41a974e)
   )
-  (label "GPIO18" (at 358.14 149.86 0)
+  (label "GPIO18" (at 358.14 149.86 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1b62cb21-cd12-4bf1-9a58-e0a920d15f4c)
   )
-  (label "GPIO19" (at 358.14 147.32 0)
+  (label "GPIO19" (at 358.14 147.32 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1b96cb47-7930-4968-a591-319e6f73edf0)
   )
-  (label "GPIO5" (at 245.11 124.46 180)
+  (label "GPIO5" (at 245.11 124.46 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1d3fc05e-ff88-4f16-bfd4-192d1dd096d7)
   )
-  (label "GPIO11" (at 245.11 139.7 180)
+  (label "GPIO11" (at 245.11 139.7 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2194bb60-20c4-423f-a669-d4b5b2d849ad)
   )
-  (label "~{USB_BOOT}" (at 31.75 125.73 0)
+  (label "~{USB_BOOT}" (at 31.75 125.73 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22c25ef8-caeb-4d31-9dd4-a6c024d8941d)
   )
-  (label "GPIO9" (at 339.09 147.32 180)
+  (label "GPIO9" (at 339.09 147.32 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 24d9c063-3639-4c0a-a26f-e00599eed681)
   )
-  (label "SWCLK" (at 152.4 176.53 0)
+  (label "SWCLK" (at 152.4 176.53 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 25485652-e116-4b09-a644-ccb703833538)
   )
-  (label "GPIO3" (at 339.09 132.08 180)
+  (label "GPIO3" (at 339.09 132.08 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2623d86c-adf8-4842-abdb-3f3ea4b4e31e)
   )
-  (label "GPIO18" (at 245.11 157.48 180)
+  (label "GPIO18" (at 245.11 157.48 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 27f39ca6-885e-480d-b83f-26ffa7e1bb51)
   )
-  (label "GPIO2" (at 339.09 129.54 180)
+  (label "GPIO2" (at 339.09 129.54 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 28408bd7-8f9f-4ac2-9a62-f8b9d6002011)
   )
-  (label "GPIO7" (at 339.09 142.24 180)
+  (label "GPIO7" (at 339.09 142.24 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 28efb655-e762-4563-8f8d-be1be905b7c1)
   )
-  (label "GPIO11" (at 339.09 152.4 180)
+  (label "GPIO11" (at 339.09 152.4 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2b203a55-60d2-4d92-8c1d-b27bf34fbd5b)
   )
-  (label "GPIO0" (at 245.11 111.76 180)
+  (label "GPIO0" (at 245.11 111.76 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2fad10f7-dc72-4191-ae8c-acd01a75d0d5)
   )
-  (label "GPIO1" (at 245.11 114.3 180)
+  (label "GPIO1" (at 245.11 114.3 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 304be514-b229-47f7-aa30-b4574fd5aeb5)
   )
-  (label "GPIO16" (at 245.11 152.4 180)
+  (label "GPIO16" (at 245.11 152.4 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 35f35e67-4d29-4f19-81aa-6f9e78bfe746)
   )
-  (label "GPIO2" (at 245.11 116.84 180)
+  (label "GPIO2" (at 245.11 116.84 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 362729c6-5ee7-467b-b0c5-8caa78be5853)
   )
-  (label "GPIO4" (at 339.09 134.62 180)
+  (label "GPIO4" (at 339.09 134.62 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 36b8f458-9046-498d-90dc-3a3f94484e0e)
   )
-  (label "GPIO7" (at 245.11 129.54 180)
+  (label "GPIO7" (at 245.11 129.54 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 3a56f0a3-4390-4ba2-8bca-54a414756b27)
   )
-  (label "QSPI_SS" (at 54.61 125.73 0)
+  (label "QSPI_SS" (at 54.61 125.73 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 414676da-ead0-49e7-b0f6-7ccfad7aa3fe)
   )
-  (label "GPIO0" (at 339.09 124.46 180)
+  (label "GPIO0" (at 339.09 124.46 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 41c74976-f5b4-48db-9e84-9ccbe09193a6)
   )
-  (label "QSPI_SD2" (at 152.4 121.92 0)
+  (label "QSPI_SD2" (at 152.4 121.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 41cc392f-2773-4e68-baad-1edd01dbf176)
   )
-  (label "GPIO27_ADC1" (at 358.14 127 0)
+  (label "GPIO27_ADC1" (at 358.14 127 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 43ff0982-01d1-4d12-b541-d1c56da0c083)
   )
-  (label "GPIO13" (at 339.09 157.48 180)
+  (label "GPIO13" (at 339.09 157.48 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4f8709b8-c60b-4b1c-9539-dcc63200d214)
   )
-  (label "SWD" (at 358.14 160.02 0)
+  (label "SWD" (at 358.14 160.02 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4ff78acf-75c9-4ccd-b39e-dbeb2e50de59)
   )
-  (label "USB_D+" (at 262.89 96.52 180)
+  (label "USB_D+" (at 262.89 96.52 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 557f33aa-0ffe-4250-a662-5aba740fcf2b)
   )
-  (label "GPIO21" (at 358.14 142.24 0)
+  (label "GPIO21" (at 358.14 142.24 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5827876a-7a81-4e18-b65f-fd9cbe6851ab)
   )
-  (label "GPIO15" (at 245.11 149.86 180)
+  (label "GPIO15" (at 245.11 149.86 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5a562941-8088-4738-94b3-dd139cd68601)
   )
-  (label "GPIO23" (at 358.14 137.16 0)
+  (label "GPIO23" (at 358.14 137.16 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5c7a6b6a-77e1-4f34-8fb5-3c10d35b51a5)
   )
-  (label "GPIO22" (at 358.14 139.7 0)
+  (label "GPIO22" (at 358.14 139.7 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5e2aee14-2a25-454b-bffa-362aa460fbe7)
   )
-  (label "GPIO15" (at 339.09 162.56 180)
+  (label "GPIO15" (at 339.09 162.56 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5ebcd906-9278-4a83-8455-67dce1c5e74d)
   )
-  (label "GPIO6" (at 339.09 139.7 180)
+  (label "GPIO6" (at 339.09 139.7 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5f529fbc-5008-430f-8377-5b2f97a7bb14)
   )
-  (label "GPIO27_ADC1" (at 245.11 182.88 180)
+  (label "GPIO27_ADC1" (at 245.11 182.88 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 60d9c50f-7a1e-4c9e-a328-97bbb10be998)
   )
-  (label "RUN" (at 358.14 157.48 0)
+  (label "RUN" (at 358.14 157.48 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 67c3cae9-80e5-4cc9-9fde-dae492a0f782)
   )
-  (label "GPIO1" (at 339.09 127 180)
+  (label "GPIO1" (at 339.09 127 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 68c3370a-6ca1-4944-bd21-15890799c96f)
   )
-  (label "GPIO12" (at 245.11 142.24 180)
+  (label "GPIO12" (at 245.11 142.24 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6900e007-281b-4a03-b2e3-bb3da021afce)
   )
-  (label "GPIO3" (at 245.11 119.38 180)
+  (label "GPIO3" (at 245.11 119.38 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6c30f5f2-952b-4bb0-8377-c5333bc813d8)
   )
-  (label "GPIO16" (at 358.14 154.94 0)
+  (label "GPIO16" (at 358.14 154.94 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6cfeeaa3-cc0b-47bc-816f-a049d900d942)
   )
-  (label "SWD" (at 152.4 179.07 0)
+  (label "SWD" (at 152.4 179.07 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6f9474b9-16f9-45a9-870d-1c866dabf7e8)
   )
-  (label "GPIO29_ADC3" (at 358.14 121.92 0)
+  (label "GPIO29_ADC3" (at 358.14 121.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6fb680f9-ba81-4a36-b8fc-81579ee3d653)
   )
-  (label "GPIO21" (at 245.11 165.1 180)
+  (label "GPIO21" (at 245.11 165.1 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7073a550-e933-40ca-b9a2-91ed4ec88a8e)
   )
-  (label "GPIO13" (at 245.11 144.78 180)
+  (label "GPIO13" (at 245.11 144.78 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 72b5cb72-a3cc-4421-a052-93aac2ef8271)
   )
-  (label "XIN" (at 97.79 218.44 180)
+  (label "XIN" (at 97.79 218.44 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7331df62-7dea-43f9-a88e-6f7404fa11d3)
   )
-  (label "GPIO4" (at 245.11 121.92 180)
+  (label "GPIO4" (at 245.11 121.92 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 79ce1a19-c01f-4674-84cd-2bf66a2d58d1)
   )
-  (label "USB_D-" (at 73.66 68.58 180)
+  (label "USB_D-" (at 73.66 68.58 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7b92d2a3-c6de-4354-8a1f-15426e2fbda5)
   )
-  (label "GPIO10" (at 245.11 137.16 180)
+  (label "GPIO10" (at 245.11 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 80cc172c-c24f-4dee-a679-c0b2e683ffd6)
   )
-  (label "GPIO19" (at 245.11 160.02 180)
+  (label "GPIO19" (at 245.11 160.02 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 84327e73-4ab4-4c68-94e4-a4737aa8894d)
   )
-  (label "GPIO29_ADC3" (at 245.11 187.96 180)
+  (label "GPIO29_ADC3" (at 245.11 187.96 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 85550e2b-6781-4587-84e8-6c99aaa34bfa)
   )
-  (label "USB_D+" (at 73.66 66.04 180)
+  (label "USB_D+" (at 73.66 66.04 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8cf36ea7-ad5a-42b5-8b8a-831efbd9096e)
   )
-  (label "GPIO22" (at 245.11 167.64 180)
+  (label "GPIO22" (at 245.11 167.64 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8fc43f8a-37f1-43ef-9285-9407af81f9a7)
   )
-  (label "QSPI_SCLK" (at 54.61 130.81 0)
+  (label "QSPI_SCLK" (at 54.61 130.81 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9eec5e39-9b48-497d-be3b-463c0b7220c0)
   )
-  (label "XOUT" (at 152.4 152.4 0)
+  (label "XOUT" (at 152.4 152.4 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a3193f00-cc18-4335-970a-2b96f7082608)
   )
-  (label "QSPI_SD0" (at 107.95 123.19 180)
+  (label "QSPI_SD0" (at 107.95 123.19 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a3b162b0-9cea-4f24-903f-f018d6da8b6a)
   )
-  (label "GPIO28_ADC2" (at 358.14 124.46 0)
+  (label "GPIO28_ADC2" (at 358.14 124.46 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a4133d0d-8077-4696-9a63-f6b6a8eb51c9)
   )
-  (label "GPIO24" (at 245.11 172.72 180)
+  (label "GPIO24" (at 245.11 172.72 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ab217ef1-edbb-40e2-be67-d559fbecb3c7)
   )
-  (label "GPIO9" (at 245.11 134.62 180)
+  (label "GPIO9" (at 245.11 134.62 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ab7c5a61-1abe-4cb4-a9eb-bc34fd4e707e)
   )
-  (label "QSPI_SD2" (at 107.95 130.81 180)
+  (label "QSPI_SD2" (at 107.95 130.81 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid af2cbca9-dbe1-461f-a3e1-f3da12e3e036)
   )
-  (label "GPIO26_ADC0" (at 358.14 129.54 0)
+  (label "GPIO26_ADC0" (at 358.14 129.54 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b23f9675-f664-4d37-a8aa-be8a76fc6a3d)
   )
-  (label "RUN" (at 152.4 165.1 0)
+  (label "RUN" (at 152.4 165.1 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b2495ea1-c2fb-4973-8eb9-abe231410c2b)
   )
-  (label "GPIO24" (at 358.14 134.62 0)
+  (label "GPIO24" (at 358.14 134.62 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b332b752-c76c-4950-badc-b91aba7d2057)
   )
-  (label "GPIO25" (at 358.14 132.08 0)
+  (label "GPIO25" (at 358.14 132.08 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid be47da3d-418d-4015-badb-2d54b270cc46)
   )
-  (label "GPIO6" (at 245.11 127 180)
+  (label "GPIO6" (at 245.11 127 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bee6e4b6-f0bb-48e3-80cc-dc0b8c25fd2d)
   )
-  (label "GPIO17" (at 358.14 152.4 0)
+  (label "GPIO17" (at 358.14 152.4 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bfaafe29-46fa-409b-b673-acee5c93e228)
   )
-  (label "GPIO23" (at 245.11 170.18 180)
+  (label "GPIO23" (at 245.11 170.18 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid cee3520c-63a8-481d-843c-bea9d029028a)
   )
-  (label "GPIO17" (at 245.11 154.94 180)
+  (label "GPIO17" (at 245.11 154.94 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d0f5b244-2c5c-44f9-9532-0064cfb6304a)
   )
-  (label "GPIO20" (at 245.11 162.56 180)
+  (label "GPIO20" (at 245.11 162.56 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d155ffbb-8bb7-475b-a796-03a283cb83ae)
   )
-  (label "GPIO28_ADC2" (at 245.11 185.42 180)
+  (label "GPIO28_ADC2" (at 245.11 185.42 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d5e3b92d-a893-482b-8a36-72f706c2bb7b)
   )
-  (label "GPIO26_ADC0" (at 245.11 180.34 180)
+  (label "GPIO26_ADC0" (at 245.11 180.34 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d81e0cb1-7a8f-4940-86d5-969019da811d)
   )
-  (label "QSPI_SD1" (at 152.4 119.38 0)
+  (label "QSPI_SD1" (at 152.4 119.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ddecfe69-e00c-4d33-b7b1-8c284befff6f)
   )
-  (label "QSPI_SD3" (at 152.4 124.46 0)
+  (label "QSPI_SD3" (at 152.4 124.46 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid de6814cb-7b7c-478b-9663-425e66c0e0b9)
   )
-  (label "GPIO10" (at 339.09 149.86 180)
+  (label "GPIO10" (at 339.09 149.86 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e3e29246-0c8b-4190-b484-52ee82ef8d8b)
   )
-  (label "SWCLK" (at 358.14 162.56 0)
+  (label "SWCLK" (at 358.14 162.56 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e7f66272-2474-4829-b062-ef305e0e64a6)
   )
-  (label "GPIO8" (at 245.11 132.08 180)
+  (label "GPIO8" (at 245.11 132.08 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid eb074d4d-326c-4cb3-b986-14a537c6a2dd)
   )
-  (label "GPIO14" (at 245.11 147.32 180)
+  (label "GPIO14" (at 245.11 147.32 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ef840708-f91e-4c23-b54a-f33c573d2dc9)
   )
-  (label "QSPI_SD1" (at 107.95 125.73 180)
+  (label "QSPI_SD1" (at 107.95 125.73 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f15f67cd-3b67-4201-a4bd-d09649f3189e)
   )
-  (label "QSPI_SD3" (at 107.95 133.35 180)
+  (label "QSPI_SD3" (at 107.95 133.35 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f44283b3-a21c-41ee-8b14-27e263fed132)
   )
-  (label "GPIO12" (at 339.09 154.94 180)
+  (label "GPIO12" (at 339.09 154.94 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fa17daea-3596-44c6-a6eb-799577feb43a)
   )
-  (label "QSPI_SD0" (at 152.4 116.84 0)
+  (label "QSPI_SD0" (at 152.4 116.84 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fc11d4cc-7561-4159-8329-6947e7dec04c)
   )
-  (label "USB_D-" (at 262.89 104.14 180)
+  (label "USB_D-" (at 262.89 104.14 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fe451e18-80bf-4270-9424-afa401ba12ff)
   )
@@ -6667,7 +6668,7 @@
     (pin "8" (uuid fc1215e6-4d0f-423d-a33b-b7ce7dc2d9bf))
     (pin "9" (uuid a1a6a68c-2230-4615-aa3f-db665cbf9b23))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "U3") (unit 1)
         )
@@ -6693,7 +6694,7 @@
     (pin "1" (uuid 374b0167-6d2f-4d8d-be31-4f40f7ba3b27))
     (pin "2" (uuid 2fe99f9d-7442-4943-931f-482df0d6da00))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C2") (unit 1)
         )
@@ -6719,7 +6720,7 @@
     (pin "1" (uuid a5b5c4f7-f9ae-46a3-89ec-a8dcc6befb84))
     (pin "2" (uuid d3284305-313e-4891-8d4f-a9607be13289))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C3") (unit 1)
         )
@@ -6744,7 +6745,7 @@
     )
     (pin "1" (uuid ea9fdfc1-e1ed-4eed-ac49-1df339c14dfe))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR06") (unit 1)
         )
@@ -6776,7 +6777,7 @@
     (pin "7" (uuid 69e911bd-1bc2-48f3-a413-34957934b5cb))
     (pin "8" (uuid 7ccf4658-e92f-480c-8a61-b246e538e33d))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "U2") (unit 1)
         )
@@ -6801,7 +6802,7 @@
     )
     (pin "1" (uuid 74ce751c-0dfb-4abf-aace-caf101694713))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR07") (unit 1)
         )
@@ -6826,7 +6827,7 @@
     )
     (pin "1" (uuid fe40c3e3-eb8b-457f-97ce-119d46c0d802))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR08") (unit 1)
         )
@@ -6852,7 +6853,7 @@
     (pin "1" (uuid a4898fc6-bfe7-4ef5-afc3-b333da92967c))
     (pin "2" (uuid 959481f9-e6f7-45d1-b823-fecc80ea1967))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "R2") (unit 1)
         )
@@ -6878,7 +6879,7 @@
     (pin "1" (uuid be7d2c04-0166-4032-8a09-faca8ca0aa69))
     (pin "2" (uuid 8b8fc68f-42e3-4b52-b37d-23fda31eea11))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "R1") (unit 1)
         )
@@ -6904,7 +6905,7 @@
     (pin "1" (uuid be5bbb82-7f99-4be7-a923-086a425d994b))
     (pin "2" (uuid e4adc190-ee04-42ec-91b5-628a56b37d84))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C5") (unit 1)
         )
@@ -6929,7 +6930,7 @@
     )
     (pin "1" (uuid 940c3112-57b7-4160-997a-b0354b842571))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR011") (unit 1)
         )
@@ -6959,7 +6960,7 @@
     (pin "5" (uuid c9697be9-5c27-44f8-9fb0-587bc3412855))
     (pin "6" (uuid cbabf244-e0cc-41de-ab10-2e9f251ac74d))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "J1") (unit 1)
         )
@@ -6984,7 +6985,7 @@
     )
     (pin "1" (uuid 144d3574-6a60-47c6-b74c-3f0db524e0ae))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR016") (unit 1)
         )
@@ -7009,7 +7010,7 @@
     )
     (pin "1" (uuid 5757cc14-eb1a-43ea-8bad-c04b115e0ef6))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR015") (unit 1)
         )
@@ -7035,7 +7036,7 @@
     (pin "1" (uuid 26358412-ca3a-4ed2-9353-0de6dbea3f5d))
     (pin "2" (uuid 2ccf3054-a3b1-433b-9502-dc7a24faf4b0))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "R3") (unit 1)
         )
@@ -7061,7 +7062,7 @@
     (pin "1" (uuid 089d7e29-0161-426f-a05c-7d1c19e62f2c))
     (pin "2" (uuid f9414b11-a856-4c77-b03c-2565bef92fc4))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "R4") (unit 1)
         )
@@ -7086,7 +7087,7 @@
     )
     (pin "1" (uuid d0b6ad58-0f63-421f-bdbf-3db984bc5573))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR01") (unit 1)
         )
@@ -7111,7 +7112,7 @@
     )
     (pin "1" (uuid f2de96f3-de25-45f9-90ea-4fc0e9fd0c7c))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR020") (unit 1)
         )
@@ -7136,7 +7137,7 @@
     )
     (pin "1" (uuid d58523f8-0d89-4ed3-880c-4c5853038535))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR0101") (unit 1)
         )
@@ -7161,7 +7162,7 @@
     )
     (pin "1" (uuid b5f6a6f0-4073-4d4e-9677-008359a016ed))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR017") (unit 1)
         )
@@ -7186,7 +7187,7 @@
     )
     (pin "1" (uuid 8894e3c2-0d81-44a6-b16d-051df8f06fc3))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR014") (unit 1)
         )
@@ -7212,7 +7213,7 @@
     (pin "1" (uuid 3dd2c251-4fe8-4a2e-87b8-bf34b8362bd4))
     (pin "2" (uuid 4d679b98-990f-4a5e-8332-6ef0c301fd55))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C9") (unit 1)
         )
@@ -7238,7 +7239,7 @@
     (pin "1" (uuid c22e264f-0ec2-4ea9-9fe8-4ad8500a37cb))
     (pin "2" (uuid 79646916-5fae-4ddf-ac48-cc602458dfd1))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C11") (unit 1)
         )
@@ -7264,7 +7265,7 @@
     (pin "1" (uuid 9833d9de-8008-43f1-995f-7b286f692286))
     (pin "2" (uuid f17017bc-04f9-46bc-b400-766ec61d2080))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C12") (unit 1)
         )
@@ -7290,7 +7291,7 @@
     (pin "1" (uuid 3fa2eca4-6683-49bd-ae61-cbe2a389b840))
     (pin "2" (uuid a18abdd8-84dc-4784-89e6-e527c281fcef))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C13") (unit 1)
         )
@@ -7316,7 +7317,7 @@
     (pin "1" (uuid bf51a8ac-7f4e-496d-88e5-6463e4cc10d2))
     (pin "2" (uuid cc6ed966-0c65-40c2-ae6f-b9c58b067adb))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C14") (unit 1)
         )
@@ -7342,7 +7343,7 @@
     (pin "1" (uuid 970eb89a-4f3e-48bb-ac15-6ea5e4a9fb86))
     (pin "2" (uuid c66fbecd-9349-4544-9895-b3d5d2bb12e0))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C15") (unit 1)
         )
@@ -7368,7 +7369,7 @@
     (pin "1" (uuid 3963a457-3169-4ae5-9953-661b2c173014))
     (pin "2" (uuid 371ab700-8725-4b86-8862-555df0449724))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C16") (unit 1)
         )
@@ -7394,7 +7395,7 @@
     (pin "1" (uuid 712a52c5-377f-4955-bcd8-20169d3049aa))
     (pin "2" (uuid f78075ae-c7b0-4ae6-9b9e-afa99002f690))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C6") (unit 1)
         )
@@ -7420,7 +7421,7 @@
     (pin "1" (uuid ee074d25-8bec-4e1a-b654-eac01ea1a61a))
     (pin "2" (uuid 497e4bc9-7330-4396-8261-d1cca8da7d8a))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C7") (unit 1)
         )
@@ -7446,7 +7447,7 @@
     (pin "1" (uuid ba7a4bb1-6577-4241-b573-24281176acb6))
     (pin "2" (uuid 76967e3f-48a4-4955-91f8-63f6a1881d6c))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C8") (unit 1)
         )
@@ -7472,7 +7473,7 @@
     (pin "1" (uuid 9197410e-1c77-4ce4-9972-e26d67af77a3))
     (pin "2" (uuid 277e9066-7708-488b-a96f-41d94416f472))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C10") (unit 1)
         )
@@ -7496,7 +7497,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "H1") (unit 1)
         )
@@ -7520,7 +7521,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "H2") (unit 1)
         )
@@ -7544,7 +7545,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "H3") (unit 1)
         )
@@ -7568,7 +7569,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "H4") (unit 1)
         )
@@ -7593,7 +7594,7 @@
     )
     (pin "1" (uuid ea894450-6bf9-4269-84db-fe7a596b989b))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR023") (unit 1)
         )
@@ -7618,7 +7619,7 @@
     )
     (pin "1" (uuid d05c8d2f-66a9-4227-9d15-09a2d62b70b7))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR012") (unit 1)
         )
@@ -7643,7 +7644,7 @@
     )
     (pin "1" (uuid 3253f8e4-614b-40dc-9be2-1077f3ccd7b5))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR013") (unit 1)
         )
@@ -7668,7 +7669,7 @@
     )
     (pin "1" (uuid 41c96832-3cd2-44d0-8fbc-bdb16a233b13))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR018") (unit 1)
         )
@@ -7695,7 +7696,7 @@
     (pin "2" (uuid 7cea1fae-2cf6-4070-a66a-52222a725015))
     (pin "3" (uuid ed53cbd4-bcd8-4017-9bee-2ba10f31975a))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "U1") (unit 1)
         )
@@ -7720,7 +7721,7 @@
     )
     (pin "1" (uuid 00ab47d1-8639-4b05-932f-5b3c71ddfd63))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR03") (unit 1)
         )
@@ -7745,7 +7746,7 @@
     )
     (pin "1" (uuid 0de8b5bc-baef-4dce-aa25-acfd40e1bee2))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR05") (unit 1)
         )
@@ -7770,7 +7771,7 @@
     )
     (pin "1" (uuid a9199dc3-6e04-4575-bb5c-ef86c47369c9))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR09") (unit 1)
         )
@@ -7796,7 +7797,7 @@
     (pin "1" (uuid c7f9982a-4603-49ab-b0fb-2521403358b6))
     (pin "2" (uuid 0a9fea66-3629-470d-af5e-a4a5c9129231))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C1") (unit 1)
         )
@@ -7822,7 +7823,7 @@
     (pin "1" (uuid 2c036c5e-8821-4d7b-8934-b11048370663))
     (pin "2" (uuid c67af643-07bb-4fb5-986e-6fcd64f8224b))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C4") (unit 1)
         )
@@ -7847,7 +7848,7 @@
     )
     (pin "1" (uuid 8e47d240-ee12-4e41-a434-e45585258b97))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR04") (unit 1)
         )
@@ -7872,7 +7873,7 @@
     )
     (pin "1" (uuid cea8b2e8-9214-485c-a682-ed1a3471f4e8))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR010") (unit 1)
         )
@@ -7898,7 +7899,7 @@
     (pin "1" (uuid 933af029-2714-4969-b168-e7780a709570))
     (pin "2" (uuid d624949f-9eb5-4a53-ab46-89c907716a78))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "R5") (unit 1)
         )
@@ -7924,7 +7925,7 @@
     (pin "1" (uuid 23656c43-3bbf-4327-9ed5-fa61d1d56794))
     (pin "2" (uuid 6cbd8239-326c-4e7b-95a0-6141fcf1f375))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "Y1") (unit 1)
         )
@@ -7949,7 +7950,7 @@
     )
     (pin "1" (uuid e3beb0e6-fe62-4dd7-a61e-cb024fcc6244))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR024") (unit 1)
         )
@@ -7975,7 +7976,7 @@
     (pin "1" (uuid b9ef3a22-e8ae-4519-82f7-fd3d466bb436))
     (pin "2" (uuid 029696d5-40ba-4c83-b515-3d74fdb235a9))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "C17") (unit 1)
         )
@@ -8000,7 +8001,7 @@
     )
     (pin "1" (uuid 449251e0-a666-4eb3-94f1-4bf34b6f9b9f))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR025") (unit 1)
         )
@@ -8025,7 +8026,7 @@
     )
     (pin "1" (uuid 8d99008e-fefd-4665-9f10-d4abd8e935c7))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR021") (unit 1)
         )
@@ -8050,7 +8051,7 @@
     )
     (pin "1" (uuid 689241a9-1c90-4b34-9bed-3390f90d4f06))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR022") (unit 1)
         )
@@ -8076,7 +8077,7 @@
     (pin "1" (uuid c985973c-6a2d-4064-b414-29564f99955d))
     (pin "2" (uuid bc4ceb7c-67d2-4ed0-893d-a8e770bafb7d))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "J2") (unit 1)
         )
@@ -8101,7 +8102,7 @@
     )
     (pin "1" (uuid 1e6bdb19-8fcc-49ae-9cf2-f340e94949df))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR02") (unit 1)
         )
@@ -8126,7 +8127,7 @@
     )
     (pin "1" (uuid 4b6b313e-7548-49f6-a7ef-70f6cb201e6b))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "#PWR019") (unit 1)
         )
@@ -8186,7 +8187,7 @@
     (pin "8" (uuid 749942e0-7b32-4b20-a5ca-4d62bb107c42))
     (pin "9" (uuid 46ef77a5-a321-4a64-b02c-0190ee2b7276))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "J4") (unit 1)
         )
@@ -8246,7 +8247,7 @@
     (pin "8" (uuid 9c48ec88-cbfd-4f93-b8ae-e44fba6d2900))
     (pin "9" (uuid 5272f69e-b85c-4d10-9973-dcbfff37e873))
     (instances
-      (project "RP2040_minimal"
+      (project "RP2040_ORNEK"
         (path "/b86a203d-bf80-44d5-8cd3-441cfd5689ec"
           (reference "J3") (unit 1)
         )
