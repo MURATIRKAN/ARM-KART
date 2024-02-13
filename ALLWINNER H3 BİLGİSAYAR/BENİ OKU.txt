@@ -1,5 +1,0 @@
-**************************************************************************************************************
-ONBOARD BİLGİSAYAR SİSTEM KONTOL MURAT IRKAN 2023
-1GB LPDDR3 SDRAM Android 4.4, Ubuntu, Debian Image DOSYASIYLA SİSTEM ÇALIŞIR..SİSTEM ŞEMASI VE PCB BASKI DEVRE AUTODESK EAGLE PROGRAMI VEYA DIPTRACE İE DE IMPORT EDİLİR.
-***************************************************************************************************************
---------------------------------------------------------------------------------------------------------------
